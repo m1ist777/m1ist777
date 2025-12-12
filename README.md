@@ -1,16 +1,32 @@
-## Hi there 👋
+Hey there 👋
 
-<!--
-**m1ist777/m1ist777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm M1ist777, a Front-end developer based in Miami 🌴.
 
-Here are some ideas to get you started:
+I mostly work on the front-end side of things - HTML5, CSS3, JavaSrcipt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to create random projects for fun, experiment with new ideas, and everything I build is made from scratch.
+
+<hr>
+
+Tools I use
+<ul> 
+  <li>VS Code</li>
+
+<li>HTML5</li>
+
+<li>CSS3</li>
+
+<li>JavaScript</li>
+</ul>
+
+<hr>
+
+About Me
+
+<ul>
+  <li>🎮 Gamer</li>
+  <li>💪 Gym enthusiast</li>
+  <li>🍣 Foodie who loves trying new things</li>
+  <li>💻 Beginner Front-end developer</li>
+  <li>🌴 Based in Miami</li>
+</ul>
